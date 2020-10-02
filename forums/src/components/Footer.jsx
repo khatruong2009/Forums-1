@@ -4,11 +4,11 @@ function Footer() {
   return (
     //Footer
     <footer id="footer">
-        <div class="container">
-            <div class="copyright">
+        <div className="container">
+            <div className="copyright">
                 &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
             </div>
-            <div class="credits">
+            <div className="credits">
                 {/*
         All the links in the footer should remain intact.
         You can delete the links only if you purchased the pro version.
