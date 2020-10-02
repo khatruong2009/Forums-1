@@ -15,23 +15,27 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-      <div className='App'>
-        <Header />
-        <Intro />
-        <main id='main'>
-          <About />
-          <Schedule />
-          <Speakers />
-          <Subscribe />
-          <Gallery />
-          <Sponsors />
-          <FAQ />
-          <Contact />
-        </main>
-        <Footer />
-        <a href='#' class='back-to-top'>
-          <i class='fa fa-angle-up'></i>
-        </a>
+    <div className='App'>
+      <Header />
+      <Intro
+        title='13th North American Leadership Forum'
+        slogan='Real Opportunities, Bold Recovery'
+        date='September 17, 2020'
+      />
+      <main id='main'>
+        <About />
+        <Schedule />
+        <Speakers />
+        <Subscribe />
+        <Gallery />
+        <Sponsors />
+        <FAQ />
+        <Contact />
+      </main>
+      <Footer />
+      <a href='#' class='back-to-top'>
+        <i class='fa fa-angle-up'></i>
+      </a>
     </div>
   );
 }
