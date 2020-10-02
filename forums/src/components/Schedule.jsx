@@ -745,6 +745,7 @@ function Schedule() {
                                 <p><strong><a href="https://www.gvip.io/projects/serra-gaucha-regional-airport" className="schedule-link">Serra Gaúcha Regional Airport</a>, Brazil,<a href="#speakers" className="schedule-link">Mr. Rogério Rodrigues, Executive Director</a></strong></p>
                             </div>
                         </div>
+                    </div>
                     {/* End Schedule Track B*/}
 
                     {/* Start Track C */}
@@ -786,7 +787,7 @@ function Schedule() {
                 </div>
 
             </div>
-        </div>
+        
         </section> //End Schedule Section
   )
 }
