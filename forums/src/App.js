@@ -18,9 +18,9 @@ function App() {
     <div className='App'>
       <Header />
       <Intro
-        title='13th North American Leadership Forum'
-        slogan='Real Opportunities, Bold Recovery'
-        date='September 17, 2020'
+        title='12th North American Leadership Forum'
+        slogan='Bold Vision, Strategic Action'
+        date='October 28, 2020'
       />
       <main id='main'>
         <About />
