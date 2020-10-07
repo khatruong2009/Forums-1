@@ -12,7 +12,7 @@ function Gallery() {
           </div>
       </div>
 
-      <div className="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
+      <div id="carousel" className="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
           <a href="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/1.jpg" className="venobox" data-gall="gallery-carousel"><img src="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/1.jpg" alt=""/></a>
           <a href="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/2.jpg" className="venobox" data-gall="gallery-carousel"><img src="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/2.jpg" alt=""/></a>
           <a href="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/3.jpg" className="venobox" data-gall="gallery-carousel"><img src="https://d2huw5an5od7zn.cloudfront.net/onlineforum/assets/img/gallery/3.jpg" alt=""/></a>
